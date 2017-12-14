@@ -3,12 +3,12 @@ coursera-johnhopkins-datascience
 
 This is main repository to group the my course work as part of Coursera Data Science Specialization by [John Hopkins University, ](https://www.coursera.org/specializations/jhu-data-science).
 
-Instructors:
+### Instructors
 - Roger D. Peng, PhD, Associate Professor, Biostatistics
 - Brian Caffo, PhD, Professor, Biostatistics
 - Jeff Leek, PhD, Associate Professor, Biostatistics
 
-Course Modules:
+### Specialization
 - Course 1:  [The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools)
 - Course 2:  [R Programming](https://www.coursera.org/learn/r-programming)
 - Course 3:  [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning)
