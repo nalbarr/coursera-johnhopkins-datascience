@@ -3,19 +3,39 @@ coursera-johnhopkins-datascience
 
 This is main repository to group the my course work as part of Coursera Data Science Specialization by [John Hopkins University, ](https://www.coursera.org/specializations/jhu-data-science).
 
-Lead instructors are:
+Instructors:
 - Roger D. Peng, PhD, Associate Professor, Biostatistics
-- Briafn Caffo, PhD, Professor, Biostatistics
+- Brian Caffo, PhD, Professor, Biostatistics
 - Jeff Leek, PhD, Associate Professor, Biostatistics
 
-### Course 1:  [The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools)
+Course Modules:
+- Course 1:  [The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools)
+- Course 2:  [R Programming](https://www.coursera.org/learn/r-programming)
+- Course 3:  [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning)
+- Course 4:  [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis)
+
+### My Learning 
+- Learn from Roger Peng, etc.; Understand John Hopkins perspective on Data Science 
+- Understand R community within Healthcare, Biostatistics
+- Learn R as a language and understanding tooling and dependencies
+- Perform literature search at it applies to Healthcare use case using R for publishing research results.
+
+### Key Takeaways
+- R is domain specific language (DSL) that most applied statistics will use from top down;  Bottom up approach would be Python (Numpy, Scipy, etc.)
+- R is easy to learn; more procedural and assignment
+- Data frames, RShiny, etc. are nice to use
+- OO/module paradigm is complex and too many ways of doing the same thing
+- For complex data science projects that require pipelines
+- RStudio has community (i.e., Microsoft heavily backing)
+
+### If I were to tell you what is best lecture and project within that I learned the most from
+- Course 3: Getting and Cleaning Data (by analyzing the UCI Human Activity Recognition (HAR) Data Set, I felt most productive by synthesizing multiple concepts and skills)
+
+### Other Ideas
+- I will cross train with other project and do a side by side (i.e., A/B test) for the same use case using Python, Python notebook
+
+### Project work
 * [johnhopkins-datascience-course1](https://github.com/nalbarr/coursera-johnhopkins-datascience-course1.git)
-
-### Course 2:  [R Programming](https://www.coursera.org/learn/r-programming)
 * [johnhopkins-datascience-course2](https://github.com/nalbarr/coursera-johnhopkins-datascience-course2.git)
-
-### Course 3:  [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning)
 * [johnhopkins-datascience-course3](https://github.com/nalbarr/coursera-johnhopkins-datascience-course3.git)
-
-### Course 4:  [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis)
 * [johnhopkins-datascience-course4](https://github.com/nalbarr/coursera-johnhopkins-datascience-course4.git)
