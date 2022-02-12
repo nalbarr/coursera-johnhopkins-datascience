@@ -1,5 +1,4 @@
 # coursera-johnhopkins-datascience
-coursera-johnhopkins-datascience
 
 This is main repository to group the my course work as part of Coursera Data Science Specialization by [John Hopkins University, ](https://www.coursera.org/specializations/jhu-data-science).
 
@@ -39,9 +38,4 @@ This is main repository to group the my course work as part of Coursera Data Sci
 * [johnhopkins-datascience-course3](https://github.com/nalbarr/coursera-johnhopkins-datascience-course3.git)
 * [johnhopkins-datascience-course4](https://github.com/nalbarr/coursera-johnhopkins-datascience-course4.git)
 
-### Related Courses
-
-### Related Projects
-
-### Future Work
-- Cross train with other related courses and projects and do a side by side (i.e., A/B test) for the same use case using Python, Python notebook
+### Related
